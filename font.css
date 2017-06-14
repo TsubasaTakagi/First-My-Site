@@ -1,0 +1,7 @@
+@font-face{
+  font-family: "thin-font";
+  src: url("font/CODE_Light.otf");
+}
+.back{
+  /*float: right;*/
+}

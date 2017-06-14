@@ -1,0 +1,44 @@
+a{
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.top-box{
+  background-color: white !important;
+  height: 100vh;
+  width: 100vw;
+  font-family: thin-font;
+}
+.title{
+  text-align: center;
+  margin-top:200px;
+  font-size: 100px !important;
+}
+.name{
+  text-align: center;
+  margin-top:25px;
+  font-size: 25px; !important;
+}
+
+.category{
+  text-align: center;
+
+}
+
+.categories{
+  margin-top: 300px;
+}
+
+@media screen and (max-width: 767px){
+  .title{
+    margin-top:31px;
+    color: red;
+  }
+  .name{
+    margin-top: 10px;
+  }
+  .categories{
+    margin-top: 200px;
+  }
+
+}

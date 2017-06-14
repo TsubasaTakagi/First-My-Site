@@ -1,0 +1,47 @@
+.title{
+font-family:thin-font;
+font-size: 70px;
+}
+.img{
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  margin-top: 30px;
+}
+
+.img1{
+  background-image: url(img/rabbit/small/1.jpg);
+}
+.img2{
+  background-image: url(img/rabbit/small/2.jpg);
+}
+.img3{
+  background-image: url(img/rabbit/small/3.jpg);
+}
+.img4{
+  background-image: url(img/rabbit/small/4.jpg);
+}
+.img5{
+  background-image: url(img/rabbit/small/5.jpg);
+}
+.img6{
+  background-image: url(img/rabbit/small/6.jpg);
+}
+.img7{
+  background-image: url(img/rabbit/small/7.jpg);
+}
+.img8{
+  background-image: url(img/rabbit/small/8.jpg);
+}
+.img9{
+  background-image: url(img/rabbit/small/9.jpg);
+}
+.img10{
+  background-image: url(img/rabbit/small/10.jpg);
+}
+.img11{
+  background-image: url(img/rabbit/small/11.jpg);
+}
+.img12{
+  background-image: url(img/rabbit/small/12.jpg);
+}
